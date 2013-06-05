@@ -1,0 +1,10 @@
+set t_Co=256
+colorscheme desert256
+set nocompatible
+set number
+set autoindent
+set tabstop=4
+set ruler
+set showcmd
+set showmode
+syntax on
