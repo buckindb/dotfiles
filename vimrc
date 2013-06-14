@@ -1,5 +1,5 @@
 set t_Co=256
-colorscheme wombat256mod
+colorscheme jellybeans
 set nocompatible
 set number
 set autoindent
