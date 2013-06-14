@@ -1,5 +1,5 @@
 set t_Co=256
-colorscheme desert256
+colorscheme wombat256mod
 set nocompatible
 set number
 set autoindent
